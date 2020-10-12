@@ -2,7 +2,7 @@
   "name": "read_infra_front",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://cczhong11.github.io/read_infra_front",
+  "homepage": "http://www.tczhong.com/read_infra_front",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
